@@ -10,7 +10,8 @@ public class Assignment01 {
 
         int A = 17;
         int B = 18;
+        int sum = A + B;
 
-        System.out.println("The sum of the numbers is" + A + B);
+        System.out.println("The sum of the numbers is " + sum );
     }
 }
